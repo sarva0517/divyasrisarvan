@@ -12,7 +12,15 @@ public class Testunit {
 	}
 	
 	public void test3() {
+
 		System.out.println("test 3");}
+
+
+public void test4() {
+	System.out.println("test 4");
+	}
+	public void test5() {
+		System.out.println("test 5"); }
 		
 		public void test6() {
 			System.out.println("test 6");}
@@ -23,6 +31,10 @@ public class Testunit {
 					System.out.println("test 8");
 				
 	
+
+		
+		
+
 	}
 
 }
