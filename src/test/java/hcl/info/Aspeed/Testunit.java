@@ -12,7 +12,16 @@ public class Testunit {
 	}
 	
 	public void test3() {
-		System.out.println("test 3");
+		System.out.println("test 3");}
+		
+		public void test6() {
+			System.out.println("test 6");}
+			
+			public void test7() {
+				System.out.println("test 7"); }
+				public void test8() {
+					System.out.println("test 8");
+				
 	
 	}
 
